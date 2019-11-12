@@ -32,6 +32,7 @@ console.log(arr[1]);
 // console.log(typeof(answer));
 
 
+
 //let asd = console.log('arr' + '3');
 
 let incr = 10,
